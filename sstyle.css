@@ -60,3 +60,24 @@
       border-radius: 50%;
       border: 2px solid #fff;
     }
+  .icon{
+     float: inline-end;
+     width: 25%;
+     height: 300px;
+     
+  
+  padding: 12px 0px;
+  transition: all 0.3s ease;
+  color: rgb(10, 222, 49);
+  font-size: 40px;
+
+  }
+
+ .icon{
+  background-attachment: fixed;
+  background-color: rgb(13, 13, 13);
+  padding: 20px;
+  margin: top 10px;
+  
+
+ }
